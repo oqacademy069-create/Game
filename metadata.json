@@ -1,0 +1,6 @@
+{
+  "name": "ViperGrid: Cyber Snake Arcade",
+  "description": "High-octane arcade Snake featuring dynamic obstacle hazards, increasing speed levels, power-ups, customizable serpent skins, and local scoreboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
